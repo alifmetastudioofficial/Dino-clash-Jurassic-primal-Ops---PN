@@ -1,0 +1,90 @@
+Converting script [1 / 2]	[\Jurassic Pack\CreaturesShared\sharedScript\Creature.cs]
+	Fragments : 45
+		[ 0] : Line: 1088	InputMethod   GetKey              	(KeyCode.LeftShift)
+		[ 1] : Line: 1093	InputMethod   GetKey              	(KeyCode.Mouse0)
+		[ 2] : Line: 1098	InputMethod   GetKey              	(KeyCode.LeftControl)
+		[ 3] : Line: 1104	InputMethod   GetKey              	(KeyCode.Mouse1)
+		[ 4] : Line: 1106	InputMethod   GetAxis             	("Mouse X")
+		[ 5] : Line: 1107	InputMethod   GetAxis             	("Mouse Y")
+		[ 6] : Line: 1108	InputMethod   GetAxis             	("Mouse Y")
+		[ 7] : Line: 1109	InputMethod   GetKey              	(KeyCode.LeftControl)
+		[ 8] : Line: 1110	InputMethod   GetKey              	(KeyCode.Space)
+		[ 9] : Line: 1114	InputMethod   GetKey              	(KeyCode.LeftControl)
+		[10] : Line: 1115	InputMethod   GetKey              	(KeyCode.Space)
+		[11] : Line: 1121	InputMethod   GetKey              	(KeyCode.Space)
+		[12] : Line: 1123	InputMethod   GetAxis             	("Horizontal")
+		[13] : Line: 1123	InputMethod   GetAxis             	("Vertical")
+		[14] : Line: 1128	InputMethod   GetKey              	(KeyCode.Mouse1)
+		[15] : Line: 1130	InputMethod   GetAxis             	("Vertical")
+		[16] : Line: 1131	InputMethod   GetAxis             	("Vertical")
+		[17] : Line: 1132	InputMethod   GetAxis             	("Horizontal")
+		[18] : Line: 1133	InputMethod   GetAxis             	("Horizontal")
+		[19] : Line: 1139	InputMethod   GetAxis             	("Horizontal")
+		[20] : Line: 1139	InputMethod   GetAxis             	("Vertical")
+		[21] : Line: 1146	InputMethod   GetKey              	(KeyCode.Mouse1)
+		[22] : Line: 1148	InputMethod   GetAxis             	("Vertical")
+		[23] : Line: 1149	InputMethod   GetAxis             	("Vertical")
+		[24] : Line: 1150	InputMethod   GetAxis             	("Vertical")
+		[25] : Line: 1151	InputMethod   GetAxis             	("Horizontal")
+		[26] : Line: 1152	InputMethod   GetAxis             	("Horizontal")
+		[27] : Line: 1153	InputMethod   GetAxis             	("Mouse X")
+		[28] : Line: 1157	InputMethod   GetAxis             	("Horizontal")
+		[29] : Line: 1157	InputMethod   GetAxis             	("Vertical")
+		[30] : Line: 1168	InputMethod   GetKey              	(KeyCode.Mouse1)
+		[31] : Line: 1174	InputMethod   GetKey              	(KeyCode.Mouse1)
+		[32] : Line: 1176	InputMethod   GetAxis             	("Mouse X")
+		[33] : Line: 1177	InputMethod   GetAxis             	("Mouse X")
+		[34] : Line: 1179	InputMethod   GetAxis             	("Mouse X")
+		[35] : Line: 1186	InputMethod   GetKeyDown          	(KeyCode.R)
+		[36] : Line: 1189	InputMethod   GetKey              	(KeyCode.E)
+		[37] : Line: 1202	InputMethod   GetKey              	(KeyCode.F)
+		[38] : Line: 1210	InputMethod   GetKeyUp            	(KeyCode.F)
+		[39] : Line: 1219	InputMethod   GetKeyUp            	(KeyCode.F)
+		[40] : Line: 1225	InputMethod   GetKey              	(KeyCode.Q)
+		[41] : Line: 1231	InputMethod   GetKey              	(KeyCode.Space)
+		[42] : Line: 1236	InputMethod   GetKey              	(KeyCode.Mouse2)
+		[43] : Line: 1239	InputMethod   GetAxis             	("Mouse X")
+		[44] : Line: 1240	InputMethod   GetAxis             	("Mouse Y")
+
+Converting script [2 / 2]	[\Jurassic Pack\CreaturesShared\sharedScript\Manager.cs]
+	Fragments : 32
+		[ 0] : Line:   88	Other mod.	[Cursor.visible]
+		[ 1] : Line:   88	Other mod.	[Cursor.lockState]
+		[ 2] : Line:  115	InputMethod   GetAxis             	("Mouse X")
+		[ 3] : Line:  116	InputMethod   GetAxis             	("Mouse Y")
+		[ 4] : Line:  117	InputMethod   GetAxis             	("Mouse ScrollWheel")
+		[ 5] : Line:  118	InputMethod   GetAxis             	("Horizontal")
+		[ 6] : Line:  119	InputMethod   GetAxis             	("Vertical")
+		[ 7] : Line:  120	InputMethod   GetKey              	(KeyCode.Mouse1)
+		[ 8] : Line:  121	InputMethod   GetKey              	(KeyCode.Mouse2)
+		[ 9] : Line:  122	InputMethod   GetKey              	(KeyCode.Space)
+		[10] : Line:  123	InputMethod   GetKey              	(KeyCode.LeftShift)
+		[11] : Line:  124	InputMethod   GetKey              	(KeyCode.LeftControl)
+		[12] : Line:  125	InputMethod   GetKeyDown          	(KeyCode.C)
+		[13] : Line:  126	InputMethod   GetKeyDown          	(KeyCode.X)
+		[14] : Line:  127	InputMethod   GetKeyDown          	(KeyCode.Y)
+		[15] : Line:  128	InputMethod   GetKeyDown          	(KeyCode.Escape)
+		[16] : Line:  134	Other mod.	[Cursor.lockState]
+		[17] : Line:  135	Other mod.	[Cursor.lockState]
+		[18] : Line:  136	Other mod.	[Cursor.lockState]
+		[19] : Line:  140	Other mod.	[Cursor.lockState]
+		[20] : Line:  140	Other mod.	[Cursor.lockState]
+		[21] : Line:  141	Other mod.	[Cursor.lockState]
+		[22] : Line:  180	Other mod.	[Cursor.lockState]
+		[23] : Line:  194	Other mod.	[Cursor.lockState]
+		[24] : Line:  204	Other mod.	[Cursor.lockState]
+		[25] : Line:  236	Other mod.	[Cursor.lockState]
+		[26] : Line:  258	Other mod.	[Cursor.visible]
+		[27] : Line:  476	Other mod.	[Screen.fullScreen]
+		[28] : Line:  477	Other mod.	[Screen.fullScreen]
+		[29] : Line:  477	Other mod.	[Screen.fullScreen]
+		[30] : Line:  477	Other mod.	[Screen.fullScreen]
+		[31] : Line:  496	Other mod.	[Cursor.visible]
+
+
+2 scripts modified!
+Overwriting actual scripts...
+	[0 / 2] from  [D:/2026/alifemeta/github/Jurassic-World-Dino-Hunter/CF2-Data/Script-Backups/2026-03-15-17-31\Assets-After/\Jurassic Pack\CreaturesShared\sharedScript\Creature.cs] to [D:/2026/alifemeta/github/Jurassic-World-Dino-Hunter/Assets/\Jurassic Pack\CreaturesShared\sharedScript\Creature.cs]
+	[1 / 2] from  [D:/2026/alifemeta/github/Jurassic-World-Dino-Hunter/CF2-Data/Script-Backups/2026-03-15-17-31\Assets-After/\Jurassic Pack\CreaturesShared\sharedScript\Manager.cs] to [D:/2026/alifemeta/github/Jurassic-World-Dino-Hunter/Assets/\Jurassic Pack\CreaturesShared\sharedScript\Manager.cs]
+
+Overwriting COMPLETED!

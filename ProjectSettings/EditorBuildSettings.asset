@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game Data/AdsData/AdsScene/CMP.unity
+    guid: 3dafa23ae569d1f4fafee623eff12c6c
+  - enabled: 1
+    path: Assets/Game Data/Scenes/Splash.unity
+    guid: fd0653c070811ef49be8fdb273a5bbeb
+  - enabled: 1
+    path: Assets/Game Data/Scenes/DinoSelection New.unity
+    guid: 61ce2584b237332498cdafca2e6dfef0
+  - enabled: 1
+    path: Assets/Game Data/Scenes/Gameplay.unity
+    guid: c33869494658c684cb286c7e410333dd
   m_configObjects: {}
