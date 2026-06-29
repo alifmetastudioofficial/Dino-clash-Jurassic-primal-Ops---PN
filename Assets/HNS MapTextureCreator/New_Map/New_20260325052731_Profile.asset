@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3375dd6ef0f71e4f8c1910ea7114d16, type: 3}
+  m_Name: New_20260325052731_Profile
+  m_EditorClassIdentifier: 
+  MapTexture: {fileID: 21300000, guid: 97fab4f2d5cad614f9951e82e41096aa, type: 3}
+  MapTextureSize: {x: 4096, y: 3718}
+  MapBackground: {r: 0, g: 0, b: 0, a: 1}
+  MapBounds:
+    m_Center: {x: 970.1738, y: 104.956345, z: 952.93994}
+    m_Extent: {x: 1516.5356, y: 116.18584, z: 1376.666}
+  CustomLayers: []
