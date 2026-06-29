@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb7ca32adc3251b4b8e19f0b15537829, type: 3}
+  m_Name: Sleep 30 Sec
+  m_EditorClassIdentifier: 
+  missionId: side_sleep_30
+  title: Rest with Sleep
+  description: Sleep for 30 seconds
+  icon: {fileID: 21300000, guid: 753fff050125241489c197d76db8ef61, type: 3}
+  eventType: 8
+  targetValue: 30
+  cashReward: 15
+  requiredVictimSpecies: 
+  requiredPlayerSpecies: 
+  requireVictimCanFly: 0
+  requireVictimPredator: 0

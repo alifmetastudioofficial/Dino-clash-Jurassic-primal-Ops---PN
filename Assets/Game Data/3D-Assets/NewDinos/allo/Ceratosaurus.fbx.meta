@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 909b2d0703f33ff4abe64c6825b8a26f
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Cerato_Die
+      takeName: Cerato_Die
+      internalID: -3512934081539890857
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Allo
+        weight: 1
+      - path: Allo/root
+        weight: 1
+      - path: Allo/root/center_back1
+        weight: 1
+      - path: Allo/root/center_back1/center_back2
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/center_neck1
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/center_neck1/center_neck2
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/center_neck1/center_neck2/center_head
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/center_neck1/center_neck2/center_head/center_jaw
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/center_neck1/center_neck2/center_head/center_jaw/center_mouthSocket1
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/center_neck1/center_neck2/center_head/center_jaw/center_tongue1
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/center_neck1/center_neck2/center_head/center_jaw/center_tongue1/center_tongue2
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/center_neck1/center_neck2/center_head/center_jaw/center_tongue1/center_tongue2/center_tongue3
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/center_neck1/center_neck2/center_head/center_jaw/center_tongue1/center_tongue2/center_tongue3/center_tongue4
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/center_neck1/center_neck2/center_head/left_eye
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/center_neck1/center_neck2/center_head/right_eye
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/left_scapula
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/left_scapula/left_shoulder
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/left_scapula/left_shoulder/left_elbow
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/left_scapula/left_shoulder/left_elbow/left_forearmTwist1
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/left_scapula/left_shoulder/left_elbow/left_forearmTwist1/left_forearmTwist2
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/left_scapula/left_shoulder/left_elbow/left_wrist
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/left_scapula/left_shoulder/left_elbow/left_wrist/left_fingerA1
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/left_scapula/left_shoulder/left_elbow/left_wrist/left_fingerA1/left_fingerA2
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/left_scapula/left_shoulder/left_elbow/left_wrist/left_fingerB1
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/left_scapula/left_shoulder/left_elbow/left_wrist/left_fingerB1/left_fingerB2
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/left_scapula/left_shoulder/left_shoulderTwist
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/right_scapula
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/right_scapula/right_shoulder
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/right_scapula/right_shoulder/right_elbow
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/right_scapula/right_shoulder/right_elbow/right_forearmTwist1
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/right_scapula/right_shoulder/right_elbow/right_forearmTwist1/right_forearmTwist2
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/right_scapula/right_shoulder/right_elbow/right_wrist
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/right_scapula/right_shoulder/right_elbow/right_wrist/right_fingerA1
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/right_scapula/right_shoulder/right_elbow/right_wrist/right_fingerA1/right_fingerA2
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/right_scapula/right_shoulder/right_elbow/right_wrist/right_fingerB1
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/right_scapula/right_shoulder/right_elbow/right_wrist/right_fingerB1/right_fingerB2
+        weight: 1
+      - path: Allo/root/center_back1/center_back2/center_back3/center_back4/right_scapula/right_shoulder/right_shoulderTwist
+        weight: 1
+      - path: Allo/root/center_back1/center_tail1
+        weight: 1
+      - path: Allo/root/center_back1/center_tail1/center_tail2
+        weight: 1
+      - path: Allo/root/center_back1/center_tail1/center_tail2/center_tail3
+        weight: 1
+      - path: Allo/root/center_back1/center_tail1/center_tail2/center_tail3/center_tail4
+        weight: 1
+      - path: Allo/root/center_back1/center_tail1/center_tail2/center_tail3/center_tail4/center_tail5
+        weight: 1
+      - path: Allo/root/center_back1/left_leg
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_knee
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_knee/left_ankle
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_knee/left_ankle/left_footBall
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_knee/left_ankle/left_footBall/left_toeA1
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_knee/left_ankle/left_footBall/left_toeA1/left_toeA2
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_knee/left_ankle/left_footBall/left_toeA1/left_toeA2/left_toeA3
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_knee/left_ankle/left_footBall/left_toeB1
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_knee/left_ankle/left_footBall/left_toeB1/left_toeB2
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_knee/left_ankle/left_footBall/left_toeB1/left_toeB2/left_toeB3
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_knee/left_ankle/left_footBall/left_toeC1
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_knee/left_ankle/left_footBall/left_toeC1/left_toeC2
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_knee/left_ankle/left_footBall/left_toeC1/left_toeC2/left_toeC3
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_legTwist1
+        weight: 1
+      - path: Allo/root/center_back1/left_leg/left_legTwist1/left_legTwist2
+        weight: 1
+      - path: Allo/root/center_back1/right_leg
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_knee
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_knee/right_ankle
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_knee/right_ankle/right_footBall
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_knee/right_ankle/right_footBall/right_toeA1
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_knee/right_ankle/right_footBall/right_toeA1/right_toeA2
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_knee/right_ankle/right_footBall/right_toeA1/right_toeA2/right_toeA3
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_knee/right_ankle/right_footBall/right_toeB1
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_knee/right_ankle/right_footBall/right_toeB1/right_toeB2
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_knee/right_ankle/right_footBall/right_toeB1/right_toeB2/right_toeB3
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_knee/right_ankle/right_footBall/right_toeC1
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_knee/right_ankle/right_footBall/right_toeC1/right_toeC2
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_knee/right_ankle/right_footBall/right_toeC1/right_toeC2/right_toeC3
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_legTwist1
+        weight: 1
+      - path: Allo/root/center_back1/right_leg/right_legTwist1/right_legTwist2
+        weight: 1
+      - path: Allo_LOD0
+        weight: 1
+      - path: Allo_LOD1
+        weight: 1
+      - path: Allo_LOD2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

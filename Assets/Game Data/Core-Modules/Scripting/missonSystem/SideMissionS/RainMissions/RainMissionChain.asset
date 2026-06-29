@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f194c33b9a3a8f9438c63e040d7790b7, type: 3}
+  m_Name: RainMissionChain
+  m_EditorClassIdentifier: 
+  chainId: side_rain
+  chainTitle: Weather Mission
+  steps:
+  - {fileID: 11400000, guid: 29f09bf1a8881e7458bbcad7774eca36, type: 2}
+  - {fileID: 11400000, guid: fda747912f6824b40a1ad1ce75df813a, type: 2}
+  - {fileID: 11400000, guid: 4ad1c9dfcba5c594eb882499890cfe4b, type: 2}
+  - {fileID: 11400000, guid: 33a4334038326f24cb686838799ffcf1, type: 2}
+  - {fileID: 11400000, guid: c4e551bc2b1f95949a7259185e463ec1, type: 2}

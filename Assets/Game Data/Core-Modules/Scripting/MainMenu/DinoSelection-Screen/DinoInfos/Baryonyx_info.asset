@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f6bb791d4f788e44b3094d78ec3deee, type: 3}
+  m_Name: Baryonyx_info
+  m_EditorClassIdentifier: 
+  playerId: 6
+  displayName: Baryonyx
+  unlockPrice: 4000
+  unlockedByDefault: 0
+  cameraDistance: 12
+  cameraOffset: {x: 0, y: 3, z: 0}
+  cameraDistanceGP: 10
+  heightOffsetGP: 5.5
+  skinPrice: 0000000064000000c8000000
+  skinDefaultUnlock: 010000
+  skinRewardedAdsRequired: 000000000200000002000000
+  eyePrice: 000000003200000032000000320000004b0000004b0000004b00000064000000640000006400000064000000960000009600000096000000c8000000c8000000
+  eyeDefaultUnlock: 01000000000000000000000000000000
+  eyeRewardedAdsRequired: 00000000020000000200000002000000020000000200000002000000020000000200000002000000020000000200000002000000020000000200000002000000

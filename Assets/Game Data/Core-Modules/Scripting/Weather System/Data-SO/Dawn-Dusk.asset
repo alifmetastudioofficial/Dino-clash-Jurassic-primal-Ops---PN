@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 673ac6c9953eeca4ab3e3ce2227cf151, type: 3}
+  m_Name: Dawn-Dusk
+  m_EditorClassIdentifier: 
+  configName: Dawn-Dusk
+  isRain: 0
+  isNight: 0
+  isDay: 1
+  fadeInTime: 20
+  fadeOutTime: 20
+  stayTime: 50
+  chance: 1
+  lightColor: {r: 0.9339623, g: 0.55320275, b: 0.4008989, a: 1}
+  lightIntensity: 1.5
+  lightRotation: {x: 131, y: 380.7, z: 427}
+  fogEnabled: 1
+  fogColor: {r: 0.9339623, g: 0.7689455, b: 0.6828498, a: 1}
+  fogDensity: 0.001
+  skyColorTint: {r: 4.1418242, g: 1.6706591, b: 1.1917512, a: 1}
+  skyScrollX: 0.05
+  mountainColor: {r: 0.5943396, g: 0.3645325, b: 0.3224012, a: 1}
+  ambientSkyColor: {r: 0.8962264, g: 0.7801332, b: 0.7482645, a: 1}
+  ambientEquatorColor: {r: 0.9150943, g: 0.69221073, b: 0.6517889, a: 1}
+  ambientGroundColor: {r: 0.9198113, g: 0.9472443, b: 1, a: 1}
+  activeParticleKeys: []
+  enableLightning: 0
+  activeAudioKeys: []
+  waterColor: {r: 0.8113208, g: 0.61074114, b: 0.5549128, a: 1}
+  waterReflectColor: {r: 1, g: 1, b: 1, a: 1}
+  waterHorizonColor: {r: 0, g: 0.32156864, b: 0.48235294, a: 1}
+  waterReflectionFresnel: 8
+  waterMinReflectionFresnel: 0.59
+  waterHorizonColorFresnel: 8
+  waterNormalStrength: 0.55
