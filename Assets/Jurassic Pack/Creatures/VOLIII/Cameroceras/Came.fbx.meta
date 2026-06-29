@@ -1,0 +1,1424 @@
+fileFormatVersion: 2
+guid: 0c85057aa0bbe3c409c9be7d57faccd2
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: ammo
+  - first:
+      1: 100004
+    second: Ammo
+  - first:
+      1: 100006
+    second: ammo_LOD_0
+  - first:
+      1: 100008
+    second: body
+  - first:
+      1: 100010
+    second: eye left
+  - first:
+      1: 100012
+    second: eye right
+  - first:
+      1: 100014
+    second: head
+  - first:
+      1: 100016
+    second: Jaw0
+  - first:
+      1: 100018
+    second: jaw1
+  - first:
+      1: 100020
+    second: left center0
+  - first:
+      1: 100022
+    second: left center1
+  - first:
+      1: 100024
+    second: left center10
+  - first:
+      1: 100026
+    second: left center2
+  - first:
+      1: 100028
+    second: left center3
+  - first:
+      1: 100030
+    second: left center4
+  - first:
+      1: 100032
+    second: left center5
+  - first:
+      1: 100034
+    second: left center6
+  - first:
+      1: 100036
+    second: left center7
+  - first:
+      1: 100038
+    second: left center8
+  - first:
+      1: 100040
+    second: left center9
+  - first:
+      1: 100042
+    second: left down0
+  - first:
+      1: 100044
+    second: left down1
+  - first:
+      1: 100046
+    second: left down10
+  - first:
+      1: 100048
+    second: left down11
+  - first:
+      1: 100050
+    second: left down2
+  - first:
+      1: 100052
+    second: left down3
+  - first:
+      1: 100054
+    second: left down4
+  - first:
+      1: 100056
+    second: left down5
+  - first:
+      1: 100058
+    second: left down6
+  - first:
+      1: 100060
+    second: left down7
+  - first:
+      1: 100062
+    second: left down8
+  - first:
+      1: 100064
+    second: left down9
+  - first:
+      1: 100066
+    second: left sidedown0
+  - first:
+      1: 100068
+    second: left sidedown1
+  - first:
+      1: 100070
+    second: left sidedown10
+  - first:
+      1: 100072
+    second: left sidedown11
+  - first:
+      1: 100074
+    second: left sidedown12
+  - first:
+      1: 100076
+    second: left sidedown2
+  - first:
+      1: 100078
+    second: left sidedown3
+  - first:
+      1: 100080
+    second: left sidedown4
+  - first:
+      1: 100082
+    second: left sidedown5
+  - first:
+      1: 100084
+    second: left sidedown6
+  - first:
+      1: 100086
+    second: left sidedown7
+  - first:
+      1: 100088
+    second: left sidedown8
+  - first:
+      1: 100090
+    second: left sidedown9
+  - first:
+      1: 100092
+    second: left sideup0
+  - first:
+      1: 100094
+    second: left sideup1
+  - first:
+      1: 100096
+    second: left sideup10
+  - first:
+      1: 100098
+    second: left sideup11
+  - first:
+      1: 100100
+    second: left sideup12
+  - first:
+      1: 100102
+    second: left sideup2
+  - first:
+      1: 100104
+    second: left sideup3
+  - first:
+      1: 100106
+    second: left sideup4
+  - first:
+      1: 100108
+    second: left sideup5
+  - first:
+      1: 100110
+    second: left sideup6
+  - first:
+      1: 100112
+    second: left sideup7
+  - first:
+      1: 100114
+    second: left sideup8
+  - first:
+      1: 100116
+    second: left sideup9
+  - first:
+      1: 100118
+    second: left up0
+  - first:
+      1: 100120
+    second: left up1
+  - first:
+      1: 100122
+    second: left up10
+  - first:
+      1: 100124
+    second: left up2
+  - first:
+      1: 100126
+    second: left up3
+  - first:
+      1: 100128
+    second: left up4
+  - first:
+      1: 100130
+    second: left up5
+  - first:
+      1: 100132
+    second: left up6
+  - first:
+      1: 100134
+    second: left up7
+  - first:
+      1: 100136
+    second: left up8
+  - first:
+      1: 100138
+    second: left up9
+  - first:
+      1: 100140
+    second: right center0
+  - first:
+      1: 100142
+    second: right center1
+  - first:
+      1: 100144
+    second: right center10
+  - first:
+      1: 100146
+    second: right center2
+  - first:
+      1: 100148
+    second: right center3
+  - first:
+      1: 100150
+    second: right center4
+  - first:
+      1: 100152
+    second: right center5
+  - first:
+      1: 100154
+    second: right center6
+  - first:
+      1: 100156
+    second: right center7
+  - first:
+      1: 100158
+    second: right center8
+  - first:
+      1: 100160
+    second: right center9
+  - first:
+      1: 100162
+    second: right down0
+  - first:
+      1: 100164
+    second: right down1
+  - first:
+      1: 100166
+    second: right down10
+  - first:
+      1: 100168
+    second: right down11
+  - first:
+      1: 100170
+    second: right down2
+  - first:
+      1: 100172
+    second: right down3
+  - first:
+      1: 100174
+    second: right down4
+  - first:
+      1: 100176
+    second: right down5
+  - first:
+      1: 100178
+    second: right down6
+  - first:
+      1: 100180
+    second: right down7
+  - first:
+      1: 100182
+    second: right down8
+  - first:
+      1: 100184
+    second: right down9
+  - first:
+      1: 100186
+    second: right sidedown0
+  - first:
+      1: 100188
+    second: right sidedown1
+  - first:
+      1: 100190
+    second: right sidedown10
+  - first:
+      1: 100192
+    second: right sidedown11
+  - first:
+      1: 100194
+    second: right sidedown12
+  - first:
+      1: 100196
+    second: right sidedown2
+  - first:
+      1: 100198
+    second: right sidedown3
+  - first:
+      1: 100200
+    second: right sidedown4
+  - first:
+      1: 100202
+    second: right sidedown5
+  - first:
+      1: 100204
+    second: right sidedown6
+  - first:
+      1: 100206
+    second: right sidedown7
+  - first:
+      1: 100208
+    second: right sidedown8
+  - first:
+      1: 100210
+    second: right sidedown9
+  - first:
+      1: 100212
+    second: right sideup0
+  - first:
+      1: 100214
+    second: right sideup1
+  - first:
+      1: 100216
+    second: right sideup10
+  - first:
+      1: 100218
+    second: right sideup11
+  - first:
+      1: 100220
+    second: right sideup12
+  - first:
+      1: 100222
+    second: right sideup2
+  - first:
+      1: 100224
+    second: right sideup3
+  - first:
+      1: 100226
+    second: right sideup4
+  - first:
+      1: 100228
+    second: right sideup5
+  - first:
+      1: 100230
+    second: right sideup6
+  - first:
+      1: 100232
+    second: right sideup7
+  - first:
+      1: 100234
+    second: right sideup8
+  - first:
+      1: 100236
+    second: right sideup9
+  - first:
+      1: 100238
+    second: right up0
+  - first:
+      1: 100240
+    second: right up1
+  - first:
+      1: 100242
+    second: right up10
+  - first:
+      1: 100244
+    second: right up2
+  - first:
+      1: 100246
+    second: right up3
+  - first:
+      1: 100248
+    second: right up4
+  - first:
+      1: 100250
+    second: right up5
+  - first:
+      1: 100252
+    second: right up6
+  - first:
+      1: 100254
+    second: right up7
+  - first:
+      1: 100256
+    second: right up8
+  - first:
+      1: 100258
+    second: right up9
+  - first:
+      1: 100260
+    second: root
+  - first:
+      1: 100262
+    second: tentacles
+  - first:
+      1: 100264
+    second: ammo_LOD_1
+  - first:
+      1: 100266
+    second: ammo_LOD_2
+  - first:
+      1: 100268
+    second: Giant
+  - first:
+      1: 100270
+    second: giant_LOD_0
+  - first:
+      1: 100272
+    second: giant_LOD_1
+  - first:
+      1: 100274
+    second: giant_LOD_2
+  - first:
+      1: 100276
+    second: Came
+  - first:
+      1: 100278
+    second: came_LOD_0
+  - first:
+      1: 100280
+    second: came_LOD_1
+  - first:
+      1: 100282
+    second: came_LOD_2
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: ammo
+  - first:
+      4: 400004
+    second: Ammo
+  - first:
+      4: 400006
+    second: ammo_LOD_0
+  - first:
+      4: 400008
+    second: body
+  - first:
+      4: 400010
+    second: eye left
+  - first:
+      4: 400012
+    second: eye right
+  - first:
+      4: 400014
+    second: head
+  - first:
+      4: 400016
+    second: Jaw0
+  - first:
+      4: 400018
+    second: jaw1
+  - first:
+      4: 400020
+    second: left center0
+  - first:
+      4: 400022
+    second: left center1
+  - first:
+      4: 400024
+    second: left center10
+  - first:
+      4: 400026
+    second: left center2
+  - first:
+      4: 400028
+    second: left center3
+  - first:
+      4: 400030
+    second: left center4
+  - first:
+      4: 400032
+    second: left center5
+  - first:
+      4: 400034
+    second: left center6
+  - first:
+      4: 400036
+    second: left center7
+  - first:
+      4: 400038
+    second: left center8
+  - first:
+      4: 400040
+    second: left center9
+  - first:
+      4: 400042
+    second: left down0
+  - first:
+      4: 400044
+    second: left down1
+  - first:
+      4: 400046
+    second: left down10
+  - first:
+      4: 400048
+    second: left down11
+  - first:
+      4: 400050
+    second: left down2
+  - first:
+      4: 400052
+    second: left down3
+  - first:
+      4: 400054
+    second: left down4
+  - first:
+      4: 400056
+    second: left down5
+  - first:
+      4: 400058
+    second: left down6
+  - first:
+      4: 400060
+    second: left down7
+  - first:
+      4: 400062
+    second: left down8
+  - first:
+      4: 400064
+    second: left down9
+  - first:
+      4: 400066
+    second: left sidedown0
+  - first:
+      4: 400068
+    second: left sidedown1
+  - first:
+      4: 400070
+    second: left sidedown10
+  - first:
+      4: 400072
+    second: left sidedown11
+  - first:
+      4: 400074
+    second: left sidedown12
+  - first:
+      4: 400076
+    second: left sidedown2
+  - first:
+      4: 400078
+    second: left sidedown3
+  - first:
+      4: 400080
+    second: left sidedown4
+  - first:
+      4: 400082
+    second: left sidedown5
+  - first:
+      4: 400084
+    second: left sidedown6
+  - first:
+      4: 400086
+    second: left sidedown7
+  - first:
+      4: 400088
+    second: left sidedown8
+  - first:
+      4: 400090
+    second: left sidedown9
+  - first:
+      4: 400092
+    second: left sideup0
+  - first:
+      4: 400094
+    second: left sideup1
+  - first:
+      4: 400096
+    second: left sideup10
+  - first:
+      4: 400098
+    second: left sideup11
+  - first:
+      4: 400100
+    second: left sideup12
+  - first:
+      4: 400102
+    second: left sideup2
+  - first:
+      4: 400104
+    second: left sideup3
+  - first:
+      4: 400106
+    second: left sideup4
+  - first:
+      4: 400108
+    second: left sideup5
+  - first:
+      4: 400110
+    second: left sideup6
+  - first:
+      4: 400112
+    second: left sideup7
+  - first:
+      4: 400114
+    second: left sideup8
+  - first:
+      4: 400116
+    second: left sideup9
+  - first:
+      4: 400118
+    second: left up0
+  - first:
+      4: 400120
+    second: left up1
+  - first:
+      4: 400122
+    second: left up10
+  - first:
+      4: 400124
+    second: left up2
+  - first:
+      4: 400126
+    second: left up3
+  - first:
+      4: 400128
+    second: left up4
+  - first:
+      4: 400130
+    second: left up5
+  - first:
+      4: 400132
+    second: left up6
+  - first:
+      4: 400134
+    second: left up7
+  - first:
+      4: 400136
+    second: left up8
+  - first:
+      4: 400138
+    second: left up9
+  - first:
+      4: 400140
+    second: right center0
+  - first:
+      4: 400142
+    second: right center1
+  - first:
+      4: 400144
+    second: right center10
+  - first:
+      4: 400146
+    second: right center2
+  - first:
+      4: 400148
+    second: right center3
+  - first:
+      4: 400150
+    second: right center4
+  - first:
+      4: 400152
+    second: right center5
+  - first:
+      4: 400154
+    second: right center6
+  - first:
+      4: 400156
+    second: right center7
+  - first:
+      4: 400158
+    second: right center8
+  - first:
+      4: 400160
+    second: right center9
+  - first:
+      4: 400162
+    second: right down0
+  - first:
+      4: 400164
+    second: right down1
+  - first:
+      4: 400166
+    second: right down10
+  - first:
+      4: 400168
+    second: right down11
+  - first:
+      4: 400170
+    second: right down2
+  - first:
+      4: 400172
+    second: right down3
+  - first:
+      4: 400174
+    second: right down4
+  - first:
+      4: 400176
+    second: right down5
+  - first:
+      4: 400178
+    second: right down6
+  - first:
+      4: 400180
+    second: right down7
+  - first:
+      4: 400182
+    second: right down8
+  - first:
+      4: 400184
+    second: right down9
+  - first:
+      4: 400186
+    second: right sidedown0
+  - first:
+      4: 400188
+    second: right sidedown1
+  - first:
+      4: 400190
+    second: right sidedown10
+  - first:
+      4: 400192
+    second: right sidedown11
+  - first:
+      4: 400194
+    second: right sidedown12
+  - first:
+      4: 400196
+    second: right sidedown2
+  - first:
+      4: 400198
+    second: right sidedown3
+  - first:
+      4: 400200
+    second: right sidedown4
+  - first:
+      4: 400202
+    second: right sidedown5
+  - first:
+      4: 400204
+    second: right sidedown6
+  - first:
+      4: 400206
+    second: right sidedown7
+  - first:
+      4: 400208
+    second: right sidedown8
+  - first:
+      4: 400210
+    second: right sidedown9
+  - first:
+      4: 400212
+    second: right sideup0
+  - first:
+      4: 400214
+    second: right sideup1
+  - first:
+      4: 400216
+    second: right sideup10
+  - first:
+      4: 400218
+    second: right sideup11
+  - first:
+      4: 400220
+    second: right sideup12
+  - first:
+      4: 400222
+    second: right sideup2
+  - first:
+      4: 400224
+    second: right sideup3
+  - first:
+      4: 400226
+    second: right sideup4
+  - first:
+      4: 400228
+    second: right sideup5
+  - first:
+      4: 400230
+    second: right sideup6
+  - first:
+      4: 400232
+    second: right sideup7
+  - first:
+      4: 400234
+    second: right sideup8
+  - first:
+      4: 400236
+    second: right sideup9
+  - first:
+      4: 400238
+    second: right up0
+  - first:
+      4: 400240
+    second: right up1
+  - first:
+      4: 400242
+    second: right up10
+  - first:
+      4: 400244
+    second: right up2
+  - first:
+      4: 400246
+    second: right up3
+  - first:
+      4: 400248
+    second: right up4
+  - first:
+      4: 400250
+    second: right up5
+  - first:
+      4: 400252
+    second: right up6
+  - first:
+      4: 400254
+    second: right up7
+  - first:
+      4: 400256
+    second: right up8
+  - first:
+      4: 400258
+    second: right up9
+  - first:
+      4: 400260
+    second: root
+  - first:
+      4: 400262
+    second: tentacles
+  - first:
+      4: 400264
+    second: ammo_LOD_1
+  - first:
+      4: 400266
+    second: ammo_LOD_2
+  - first:
+      4: 400268
+    second: Giant
+  - first:
+      4: 400270
+    second: giant_LOD_0
+  - first:
+      4: 400272
+    second: giant_LOD_1
+  - first:
+      4: 400274
+    second: giant_LOD_2
+  - first:
+      4: 400276
+    second: Came
+  - first:
+      4: 400278
+    second: came_LOD_0
+  - first:
+      4: 400280
+    second: came_LOD_1
+  - first:
+      4: 400282
+    second: came_LOD_2
+  - first:
+      23: 2300000
+    second: ammo
+  - first:
+      23: 2300002
+    second: ammo_LOD_0
+  - first:
+      33: 3300000
+    second: ammo
+  - first:
+      33: 3300002
+    second: ammo_LOD_0
+  - first:
+      43: 4300000
+    second: ammo
+  - first:
+      43: 4300002
+    second: ammo_LOD_0
+  - first:
+      43: 4300004
+    second: ammo_LOD_2
+  - first:
+      43: 4300006
+    second: ammo_LOD_1
+  - first:
+      43: 4300008
+    second: giant_LOD_2
+  - first:
+      43: 4300010
+    second: giant_LOD_1
+  - first:
+      43: 4300012
+    second: giant_LOD_0
+  - first:
+      43: 4300014
+    second: came_LOD_0
+  - first:
+      43: 4300016
+    second: came_LOD_1
+  - first:
+      43: 4300018
+    second: came_LOD_2
+  - first:
+      74: 7400000
+    second: Ammo|Ammo
+  - first:
+      74: 7400002
+    second: Ammo|AtkA
+  - first:
+      74: 7400004
+    second: Ammo|GroundIdle
+  - first:
+      74: 7400006
+    second: Ammo|GroundWalk
+  - first:
+      74: 7400008
+    second: Ammo|IdleA
+  - first:
+      74: 7400010
+    second: Ammo|IdleB
+  - first:
+      74: 7400012
+    second: Ammo|Swim
+  - first:
+      74: 7400014
+    second: Ammo|SwimFast
+  - first:
+      74: 7400016
+    second: Ammo|ToGround
+  - first:
+      74: 7400018
+    second: Ammo|ToHide
+  - first:
+      74: 7400020
+    second: Ammo|Atk
+  - first:
+      74: 7400022
+    second: Ammo|Die1
+  - first:
+      74: 7400024
+    second: Ammo|Die2
+  - first:
+      74: 7400026
+    second: Ammo|Fall
+  - first:
+      74: 7400028
+    second: Ammo|Die
+  - first:
+      74: 7400030
+    second: Ammo|DieGround
+  - first:
+      74: 7400032
+    second: Ammo|OnGround
+  - first:
+      74: 7400034
+    second: Giant|ArmaturePose
+  - first:
+      74: 7400036
+    second: Giant|Atk
+  - first:
+      74: 7400038
+    second: Giant|Die
+  - first:
+      74: 7400040
+    second: Giant|DieGround
+  - first:
+      74: 7400042
+    second: Giant|IdleA
+  - first:
+      74: 7400044
+    second: Giant|IdleB
+  - first:
+      74: 7400046
+    second: Giant|OnGround
+  - first:
+      74: 7400048
+    second: Giant|Swim
+  - first:
+      74: 7400050
+    second: Giant|SwimFast
+  - first:
+      74: 7400052
+    second: Giant|ToHide
+  - first:
+      74: 7400054
+    second: Came|ArmaturePose
+  - first:
+      74: 7400056
+    second: Came|Atk
+  - first:
+      74: 7400058
+    second: Came|Die
+  - first:
+      74: 7400060
+    second: Came|DieGround
+  - first:
+      74: 7400062
+    second: Came|IdleA
+  - first:
+      74: 7400064
+    second: Came|IdleB
+  - first:
+      74: 7400066
+    second: Came|OnGround
+  - first:
+      74: 7400068
+    second: Came|Swim
+  - first:
+      74: 7400070
+    second: Came|SwimFast
+  - first:
+      74: 7400072
+    second: Came|ToHide
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: ammo_LOD_0
+  - first:
+      137: 13700002
+    second: ammo_LOD_1
+  - first:
+      137: 13700004
+    second: ammo_LOD_2
+  - first:
+      137: 13700006
+    second: giant_LOD_0
+  - first:
+      137: 13700008
+    second: giant_LOD_1
+  - first:
+      137: 13700010
+    second: giant_LOD_2
+  - first:
+      137: 13700012
+    second: came_LOD_0
+  - first:
+      137: 13700014
+    second: came_LOD_1
+  - first:
+      137: 13700016
+    second: came_LOD_2
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Came|ArmaturePose
+      takeName: Came|ArmaturePose
+      internalID: 7400054
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Came|Atk
+      takeName: Came|Atk
+      internalID: 7400056
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Came|Die
+      takeName: Came|Die
+      internalID: 7400058
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Came|DieGround
+      takeName: Came|DieGround
+      internalID: 7400060
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Came|IdleA
+      takeName: Came|IdleA
+      internalID: 7400062
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Came|IdleB
+      takeName: Came|IdleB
+      internalID: 7400064
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Came|OnGround
+      takeName: Came|OnGround
+      internalID: 7400066
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Came|Swim
+      takeName: Came|Swim
+      internalID: 7400068
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Came|SwimFast
+      takeName: Came|SwimFast
+      internalID: 7400070
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Came|ToHide
+      takeName: Came|ToHide
+      internalID: 7400072
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

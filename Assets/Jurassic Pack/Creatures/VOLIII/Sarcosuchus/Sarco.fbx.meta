@@ -1,0 +1,1779 @@
+fileFormatVersion: 2
+guid: a33e25b92bb7c0c49a0d1a81bb7bdd39
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: eyes
+  - first:
+      1: 100002
+    second: head
+  - first:
+      1: 100004
+    second: jaw0
+  - first:
+      1: 100006
+    second: jaw1
+  - first:
+      1: 100008
+    second: jaw1_end
+  - first:
+      1: 100010
+    second: left arm0
+  - first:
+      1: 100012
+    second: left arm1
+  - first:
+      1: 100014
+    second: left eye
+  - first:
+      1: 100016
+    second: left eye_end
+  - first:
+      1: 100018
+    second: left finger0
+  - first:
+      1: 100020
+    second: left finger1
+  - first:
+      1: 100022
+    second: left finger2
+  - first:
+      1: 100024
+    second: left finger2_end
+  - first:
+      1: 100026
+    second: left fingerA0
+  - first:
+      1: 100028
+    second: left fingerA1
+  - first:
+      1: 100030
+    second: left fingerA1_end
+  - first:
+      1: 100032
+    second: left fingerB0
+  - first:
+      1: 100034
+    second: left fingerB1
+  - first:
+      1: 100036
+    second: left fingerB1_end
+  - first:
+      1: 100038
+    second: left foot0
+  - first:
+      1: 100040
+    second: left foot1
+  - first:
+      1: 100042
+    second: left hand0
+  - first:
+      1: 100044
+    second: left hand1
+  - first:
+      1: 100046
+    second: left hips
+  - first:
+      1: 100048
+    second: left leg
+  - first:
+      1: 100050
+    second: left toe0
+  - first:
+      1: 100052
+    second: left toe1
+  - first:
+      1: 100054
+    second: left toe2
+  - first:
+      1: 100056
+    second: left toe2_end
+  - first:
+      1: 100058
+    second: left toeA0
+  - first:
+      1: 100060
+    second: left toeA1
+  - first:
+      1: 100062
+    second: left toeA1_end
+  - first:
+      1: 100064
+    second: left toeB0
+  - first:
+      1: 100066
+    second: left toeB1
+  - first:
+      1: 100068
+    second: left toeB1_end
+  - first:
+      1: 100070
+    second: left toeC0
+  - first:
+      1: 100072
+    second: left toeC1
+  - first:
+      1: 100074
+    second: left toeC1_end
+  - first:
+      1: 100076
+    second: neck0
+  - first:
+      1: 100078
+    second: neck1
+  - first:
+      1: 100080
+    second: neck2
+  - first:
+      1: 100082
+    second: pelvis
+  - first:
+      1: 100084
+    second: right arm0
+  - first:
+      1: 100086
+    second: right arm1
+  - first:
+      1: 100088
+    second: right eye
+  - first:
+      1: 100090
+    second: right eye_end
+  - first:
+      1: 100092
+    second: right finger0
+  - first:
+      1: 100094
+    second: right finger1
+  - first:
+      1: 100096
+    second: right finger2
+  - first:
+      1: 100098
+    second: right finger2_end
+  - first:
+      1: 100100
+    second: right fingerA0
+  - first:
+      1: 100102
+    second: right fingerA1
+  - first:
+      1: 100104
+    second: right fingerA1_end
+  - first:
+      1: 100106
+    second: right fingerB0
+  - first:
+      1: 100108
+    second: right fingerB1
+  - first:
+      1: 100110
+    second: right fingerB1_end
+  - first:
+      1: 100112
+    second: right foot0
+  - first:
+      1: 100114
+    second: right foot1
+  - first:
+      1: 100116
+    second: right hand0
+  - first:
+      1: 100118
+    second: right hand1
+  - first:
+      1: 100120
+    second: right hips
+  - first:
+      1: 100122
+    second: right leg
+  - first:
+      1: 100124
+    second: right toe0
+  - first:
+      1: 100126
+    second: right toe1
+  - first:
+      1: 100128
+    second: right toe2
+  - first:
+      1: 100130
+    second: right toe2_end
+  - first:
+      1: 100132
+    second: right toeA0
+  - first:
+      1: 100134
+    second: right toeA1
+  - first:
+      1: 100136
+    second: right toeA1_end
+  - first:
+      1: 100138
+    second: right toeB0
+  - first:
+      1: 100140
+    second: right toeB1
+  - first:
+      1: 100142
+    second: right toeB1_end
+  - first:
+      1: 100144
+    second: right toeC0
+  - first:
+      1: 100146
+    second: right toeC1
+  - first:
+      1: 100148
+    second: right toeC1_end
+  - first:
+      1: 100150
+    second: root
+  - first:
+      1: 100152
+    second: Sarco
+  - first:
+      1: 100154
+    second: //RootNode
+  - first:
+      1: 100156
+    second: sarco_LOD_0
+  - first:
+      1: 100158
+    second: sarco_LOD_1
+  - first:
+      1: 100160
+    second: sarco_LOD_2
+  - first:
+      1: 100162
+    second: spine0
+  - first:
+      1: 100164
+    second: spine1
+  - first:
+      1: 100166
+    second: spine2
+  - first:
+      1: 100168
+    second: spine3
+  - first:
+      1: 100170
+    second: spine4
+  - first:
+      1: 100172
+    second: tail0
+  - first:
+      1: 100174
+    second: tail1
+  - first:
+      1: 100176
+    second: tail2
+  - first:
+      1: 100178
+    second: tail3
+  - first:
+      1: 100180
+    second: tail4
+  - first:
+      1: 100182
+    second: tail5
+  - first:
+      1: 100184
+    second: tail6
+  - first:
+      1: 100186
+    second: tail7
+  - first:
+      1: 100188
+    second: tail8
+  - first:
+      1: 100190
+    second: tail9
+  - first:
+      1: 100192
+    second: tail9_end
+  - first:
+      1: 100194
+    second: tongue0
+  - first:
+      1: 100196
+    second: tongue1
+  - first:
+      1: 100198
+    second: tongue2
+  - first:
+      1: 100200
+    second: tongue3
+  - first:
+      1: 100202
+    second: tongue3_end
+  - first:
+      4: 400000
+    second: eyes
+  - first:
+      4: 400002
+    second: head
+  - first:
+      4: 400004
+    second: jaw0
+  - first:
+      4: 400006
+    second: jaw1
+  - first:
+      4: 400008
+    second: jaw1_end
+  - first:
+      4: 400010
+    second: left arm0
+  - first:
+      4: 400012
+    second: left arm1
+  - first:
+      4: 400014
+    second: left eye
+  - first:
+      4: 400016
+    second: left eye_end
+  - first:
+      4: 400018
+    second: left finger0
+  - first:
+      4: 400020
+    second: left finger1
+  - first:
+      4: 400022
+    second: left finger2
+  - first:
+      4: 400024
+    second: left finger2_end
+  - first:
+      4: 400026
+    second: left fingerA0
+  - first:
+      4: 400028
+    second: left fingerA1
+  - first:
+      4: 400030
+    second: left fingerA1_end
+  - first:
+      4: 400032
+    second: left fingerB0
+  - first:
+      4: 400034
+    second: left fingerB1
+  - first:
+      4: 400036
+    second: left fingerB1_end
+  - first:
+      4: 400038
+    second: left foot0
+  - first:
+      4: 400040
+    second: left foot1
+  - first:
+      4: 400042
+    second: left hand0
+  - first:
+      4: 400044
+    second: left hand1
+  - first:
+      4: 400046
+    second: left hips
+  - first:
+      4: 400048
+    second: left leg
+  - first:
+      4: 400050
+    second: left toe0
+  - first:
+      4: 400052
+    second: left toe1
+  - first:
+      4: 400054
+    second: left toe2
+  - first:
+      4: 400056
+    second: left toe2_end
+  - first:
+      4: 400058
+    second: left toeA0
+  - first:
+      4: 400060
+    second: left toeA1
+  - first:
+      4: 400062
+    second: left toeA1_end
+  - first:
+      4: 400064
+    second: left toeB0
+  - first:
+      4: 400066
+    second: left toeB1
+  - first:
+      4: 400068
+    second: left toeB1_end
+  - first:
+      4: 400070
+    second: left toeC0
+  - first:
+      4: 400072
+    second: left toeC1
+  - first:
+      4: 400074
+    second: left toeC1_end
+  - first:
+      4: 400076
+    second: neck0
+  - first:
+      4: 400078
+    second: neck1
+  - first:
+      4: 400080
+    second: neck2
+  - first:
+      4: 400082
+    second: pelvis
+  - first:
+      4: 400084
+    second: right arm0
+  - first:
+      4: 400086
+    second: right arm1
+  - first:
+      4: 400088
+    second: right eye
+  - first:
+      4: 400090
+    second: right eye_end
+  - first:
+      4: 400092
+    second: right finger0
+  - first:
+      4: 400094
+    second: right finger1
+  - first:
+      4: 400096
+    second: right finger2
+  - first:
+      4: 400098
+    second: right finger2_end
+  - first:
+      4: 400100
+    second: right fingerA0
+  - first:
+      4: 400102
+    second: right fingerA1
+  - first:
+      4: 400104
+    second: right fingerA1_end
+  - first:
+      4: 400106
+    second: right fingerB0
+  - first:
+      4: 400108
+    second: right fingerB1
+  - first:
+      4: 400110
+    second: right fingerB1_end
+  - first:
+      4: 400112
+    second: right foot0
+  - first:
+      4: 400114
+    second: right foot1
+  - first:
+      4: 400116
+    second: right hand0
+  - first:
+      4: 400118
+    second: right hand1
+  - first:
+      4: 400120
+    second: right hips
+  - first:
+      4: 400122
+    second: right leg
+  - first:
+      4: 400124
+    second: right toe0
+  - first:
+      4: 400126
+    second: right toe1
+  - first:
+      4: 400128
+    second: right toe2
+  - first:
+      4: 400130
+    second: right toe2_end
+  - first:
+      4: 400132
+    second: right toeA0
+  - first:
+      4: 400134
+    second: right toeA1
+  - first:
+      4: 400136
+    second: right toeA1_end
+  - first:
+      4: 400138
+    second: right toeB0
+  - first:
+      4: 400140
+    second: right toeB1
+  - first:
+      4: 400142
+    second: right toeB1_end
+  - first:
+      4: 400144
+    second: right toeC0
+  - first:
+      4: 400146
+    second: right toeC1
+  - first:
+      4: 400148
+    second: right toeC1_end
+  - first:
+      4: 400150
+    second: root
+  - first:
+      4: 400152
+    second: //RootNode
+  - first:
+      4: 400154
+    second: Sarco
+  - first:
+      4: 400156
+    second: sarco_LOD_0
+  - first:
+      4: 400158
+    second: sarco_LOD_1
+  - first:
+      4: 400160
+    second: sarco_LOD_2
+  - first:
+      4: 400162
+    second: spine0
+  - first:
+      4: 400164
+    second: spine1
+  - first:
+      4: 400166
+    second: spine2
+  - first:
+      4: 400168
+    second: spine3
+  - first:
+      4: 400170
+    second: spine4
+  - first:
+      4: 400172
+    second: tail0
+  - first:
+      4: 400174
+    second: tail1
+  - first:
+      4: 400176
+    second: tail2
+  - first:
+      4: 400178
+    second: tail3
+  - first:
+      4: 400180
+    second: tail4
+  - first:
+      4: 400182
+    second: tail5
+  - first:
+      4: 400184
+    second: tail6
+  - first:
+      4: 400186
+    second: tail7
+  - first:
+      4: 400188
+    second: tail8
+  - first:
+      4: 400190
+    second: tail9
+  - first:
+      4: 400192
+    second: tail9_end
+  - first:
+      4: 400194
+    second: tongue0
+  - first:
+      4: 400196
+    second: tongue1
+  - first:
+      4: 400198
+    second: tongue2
+  - first:
+      4: 400200
+    second: tongue3
+  - first:
+      4: 400202
+    second: tongue3_end
+  - first:
+      21: 2100000
+    second: sarco
+  - first:
+      21: 2100002
+    second: eyes
+  - first:
+      23: 2300000
+    second: sarco_LOD_0
+  - first:
+      23: 2300002
+    second: sarco_LOD_1
+  - first:
+      23: 2300004
+    second: sarco_LOD_2
+  - first:
+      33: 3300000
+    second: sarco_LOD_0
+  - first:
+      33: 3300002
+    second: sarco_LOD_1
+  - first:
+      33: 3300004
+    second: sarco_LOD_2
+  - first:
+      43: 4300000
+    second: sarco_LOD_0
+  - first:
+      43: 4300002
+    second: sarco_LOD_1
+  - first:
+      43: 4300004
+    second: sarco_LOD_2
+  - first:
+      74: 7400000
+    second: Sarco|Die1
+  - first:
+      74: 7400002
+    second: Sarco|Die2
+  - first:
+      74: 7400004
+    second: Sarco|Die3
+  - first:
+      74: 7400006
+    second: Sarco|EatA
+  - first:
+      74: 7400008
+    second: Sarco|EatB
+  - first:
+      74: 7400010
+    second: Sarco|EatC
+  - first:
+      74: 7400012
+    second: Sarco|Idle1A
+  - first:
+      74: 7400014
+    second: Sarco|Idle1B
+  - first:
+      74: 7400016
+    second: Sarco|Idle1C
+  - first:
+      74: 7400018
+    second: Sarco|Idle2A
+  - first:
+      74: 7400020
+    second: Sarco|Idle2B
+  - first:
+      74: 7400022
+    second: Sarco|Idle2C
+  - first:
+      74: 7400024
+    second: Sarco|Sarco
+  - first:
+      74: 7400026
+    second: Sarco|Sleep
+  - first:
+      74: 7400028
+    second: Sarco|Step1
+  - first:
+      74: 7400030
+    second: Sarco|Step2
+  - first:
+      74: 7400032
+    second: Sarco|StepAtk1
+  - first:
+      74: 7400034
+    second: Sarco|StepAtk2
+  - first:
+      74: 7400036
+    second: Sarco|Strafe1
+  - first:
+      74: 7400038
+    second: Sarco|Strafe2
+  - first:
+      74: 7400040
+    second: Sarco|Swim
+  - first:
+      74: 7400042
+    second: Sarco|SwimAtk
+  - first:
+      74: 7400044
+    second: Sarco|SwimEat
+  - first:
+      74: 7400046
+    second: Sarco|SwimFast
+  - first:
+      74: 7400048
+    second: Sarco|SwimFastAtk
+  - first:
+      74: 7400050
+    second: Sarco|SwimFastGrowl
+  - first:
+      74: 7400052
+    second: Sarco|SwimGlide
+  - first:
+      74: 7400054
+    second: Sarco|SwimGrowl
+  - first:
+      74: 7400056
+    second: Sarco|SwimIdleA
+  - first:
+      74: 7400058
+    second: Sarco|SwimIdleB
+  - first:
+      74: 7400060
+    second: Sarco|SwimIdleC
+  - first:
+      74: 7400062
+    second: Sarco|ToSleep
+  - first:
+      74: 7400064
+    second: Sarco|Walk
+  - first:
+      74: 7400066
+    second: Sarco|WalkAtk
+  - first:
+      74: 7400068
+    second: Sarco|WalkGrowl
+  - first:
+      74: 7400070
+    second: Sarco|ArmaturePose
+  - first:
+      74: 7400072
+    second: Sarco|SwimDie
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: sarco_LOD_0
+  - first:
+      137: 13700002
+    second: sarco_LOD_1
+  - first:
+      137: 13700004
+    second: sarco_LOD_2
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes
+    second: {fileID: 2100000, guid: 9c9fbb993b5a792468b38776ec297741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sarco
+    second: {fileID: 2100000, guid: 4e095d010bb7ba044a516b561a567f8f, type: 2}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 1
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Sarco|ArmaturePose
+      takeName: Sarco|ArmaturePose
+      internalID: 7400070
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|Die1
+      takeName: Sarco|Die1
+      internalID: 7400000
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|Die2
+      takeName: Sarco|Die2
+      internalID: 7400002
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|EatA
+      takeName: Sarco|EatA
+      internalID: 7400006
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|EatB
+      takeName: Sarco|EatB
+      internalID: 7400008
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|Idle1A
+      takeName: Sarco|Idle1A
+      internalID: 7400012
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|Idle1B
+      takeName: Sarco|Idle1B
+      internalID: 7400014
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|Idle1C
+      takeName: Sarco|Idle1C
+      internalID: 7400016
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|Idle2A
+      takeName: Sarco|Idle2A
+      internalID: 7400018
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Sarco|Idle2B
+      takeName: Sarco|Idle2B
+      internalID: 7400020
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|Idle2C
+      takeName: Sarco|Idle2C
+      internalID: 7400022
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|Step1
+      takeName: Sarco|Step1
+      internalID: 7400028
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|Step2
+      takeName: Sarco|Step2
+      internalID: 7400030
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|StepAtk1
+      takeName: Sarco|StepAtk1
+      internalID: 7400032
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|StepAtk2
+      takeName: Sarco|StepAtk2
+      internalID: 7400034
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|Strafe1
+      takeName: Sarco|Strafe1
+      internalID: 7400036
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|Strafe2
+      takeName: Sarco|Strafe2
+      internalID: 7400038
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|Swim
+      takeName: Sarco|Swim
+      internalID: 7400040
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|SwimAtk
+      takeName: Sarco|SwimAtk
+      internalID: 7400042
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|SwimEat
+      takeName: Sarco|SwimEat
+      internalID: 7400044
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|SwimFast
+      takeName: Sarco|SwimFast
+      internalID: 7400046
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|SwimFastAtk
+      takeName: Sarco|SwimFastAtk
+      internalID: 7400048
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|SwimFastGrowl
+      takeName: Sarco|SwimFastGrowl
+      internalID: 7400050
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|SwimGrowl
+      takeName: Sarco|SwimGrowl
+      internalID: 7400054
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|SwimIdleA
+      takeName: Sarco|SwimIdleA
+      internalID: 7400056
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|SwimIdleB
+      takeName: Sarco|SwimIdleB
+      internalID: 7400058
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|SwimIdleC
+      takeName: Sarco|SwimIdleC
+      internalID: 7400060
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|Walk
+      takeName: Sarco|Walk
+      internalID: 7400064
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|WalkAtk
+      takeName: Sarco|WalkAtk
+      internalID: 7400066
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|WalkGrowl
+      takeName: Sarco|WalkGrowl
+      internalID: 7400068
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sarco|SwimDie
+      takeName: Sarco|SwimDie
+      internalID: 7400072
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

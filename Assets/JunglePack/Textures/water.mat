@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: water
+  m_Shader: {fileID: 4800000, guid: 02f22041fc48b024b8ef5cb3fa40946b, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ALPHAPREMULTIPLY_ON
+  - _DETAIL_MULX2
+  - _NORMALMAP
+  - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2800
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 09c0e625dcc0baa4a86a3f3b8c5eab4d, type: 3}
+        m_Scale: {x: 100, y: 100}
+        m_Offset: {x: 0.6, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: 48d1cd39c56855c44b95efe1b0536f40, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 2800000, guid: de64c8f202e4cfb43846666de5c9c439, type: 3}
+        m_Scale: {x: 100, y: 100}
+        m_Offset: {x: 9.6, y: 2.01}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 2800000, guid: f942961bb43fd944eb91df2cd13d3a74, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 500, y: 500}
+        m_Offset: {x: 0.59, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 8188fcd1b74c97840bc9e416947a9ab6, type: 3}
+        m_Scale: {x: 500, y: 500}
+        m_Offset: {x: 0.59, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 10
+    - _GlossMapScale: 0.98
+    - _Glossiness: 1
+    - _GlossyReflections: 1
+    - _Metallic: 0.628
+    - _Mode: 3
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _Shininess: 1
+    - _SmoothnessTextureChannel: 1
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 0
+    m_Colors:
+    - _Color: {r: 0.39622632, g: 0.39622632, b: 0.39622632, a: 1}
+    - _EmissionColor: {r: 0.11302953, g: 0.14896752, b: 0.18867922, a: 1}
+    - _ReflectColor: {r: 0.38039216, g: 0.38039216, b: 0.38039216, a: 0.972549}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_BuildTextureStacks: []
