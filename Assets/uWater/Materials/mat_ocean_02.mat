@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: mat_ocean_02
+  m_Shader: {fileID: 4800000, guid: 334774a29338db448a3473fe9937e81e, type: 3}
+  m_ShaderKeywords: PIXELFRESNEL_ON PixelFresnel
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: fb2b631238196c14d8a4cd78bcd88559, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 84ba0d0790bfa524895ded7fcef3d398, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: 48d1cd39c56855c44b95efe1b0536f40, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EnvironmentMap
+        second:
+          m_Texture: {fileID: 8900000, guid: 2f821dbbb5e173e468876ef2e4eaa490, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_7048
+        second:
+          m_Texture: {fileID: 2800000, guid: a53cf5449d11a15d1100a04b44295342, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ColorControl
+        second:
+          m_Texture: {fileID: 2800000, guid: d8ef02f9d43c97d47b35b8978103fe59, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ColorControlCube
+        second:
+          m_Texture: {fileID: 8900000, guid: 060e340859d6aab47924be7300b0de0e, type: 2}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _WaveNormalMap
+        second:
+          m_Texture: {fileID: 2800000, guid: a53cf5449d11a15d1100a04b44295342, type: 3}
+          m_Scale: {x: 2, y: 2}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: 0.5
+      data:
+        first:
+          name: _TextureAnimationX
+        second: 0.76
+      data:
+        first:
+          name: _TextureAnimationY
+        second: -0.2
+      data:
+        first:
+          name: _TextureScale
+        second: 3
+      data:
+        first:
+          name: _NormalMap0AnimationX
+        second: 0.953
+      data:
+        first:
+          name: _NormalMap0AnimationY
+        second: 0.537
+      data:
+        first:
+          name: _NormalMap0Scale
+        second: 2
+      data:
+        first:
+          name: _NormalMap1AnimationX
+        second: 0.67
+      data:
+        first:
+          name: _NormalMap1AnimationY
+        second: -0.537
+      data:
+        first:
+          name: _NormalMap1Scale
+        second: 2
+      data:
+        first:
+          name: _PixelFresnel
+        second: 1
+      data:
+        first:
+          name: _ReflectionFresnel
+        second: 3
+      data:
+        first:
+          name: _MinReflectionFresnel
+        second: 0.4
+      data:
+        first:
+          name: _HorizonColorFresnel
+        second: 5
+      data:
+        first:
+          name: _NormalStrength
+        second: 2
+      data:
+        first:
+          name: _Dir1InDegree
+        second: 90
+      data:
+        first:
+          name: _Speed1
+        second: 0.1
+      data:
+        first:
+          name: _Dir2InDegree
+        second: 45
+      data:
+        first:
+          name: _Speed2
+        second: 0.05
+      data:
+        first:
+          name: _WaveScale
+        second: 0.022321427
+      data:
+        first:
+          name: _TextureAnimation
+        second: 0
+      data:
+        first:
+          name: _NormalMap0Animation
+        second: 0
+      data:
+        first:
+          name: _NormalMap1Animation
+        second: 0
+      data:
+        first:
+          name: _FillWithRed
+        second: 0
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 0.588, g: 0.588, b: 0.588, a: 1}
+      data:
+        first:
+          name: _NormalMapOffsets
+        second: {r: 1.13, g: -0.44, b: 0, a: 0}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: 0.33539554, g: 0.33539554, b: 0.33539554, a: 1}
+      data:
+        first:
+          name: _HorizonColor
+        second: {r: 0.3030933, g: 0.4171161, b: 0.47931033, a: 1}
+      data:
+        first:
+          name: _Anim0
+        second: {r: 0.76, g: -0.2, b: 0, a: 0}
+      data:
+        first:
+          name: _Anim1
+        second: {r: 0.953, g: 0.537, b: 1.13, a: -0.44}
+      data:
+        first:
+          name: _Anim2
+        second: {r: 0.67, g: -0.537, b: 0, a: 0}
+      data:
+        first:
+          name: _Scales
+        second: {r: 3, g: 2, b: 2, a: 0}
+      data:
+        first:
+          name: _WaterColor
+        second: {r: 0.014271434, g: 0.10225507, b: 0.1254902, a: 1}
+      data:
+        first:
+          name: _node_5114
+        second: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      data:
+        first:
+          name: _horizonColor
+        second: {r: 0.5514706, g: 0.46631703, b: 0.46631703, a: 1}
+      data:
+        first:
+          name: WaveSpeed
+        second: {r: 35, g: 350, b: -27, a: 271}
+      data:
+        first:
+          name: _ReflectionColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _WaterSelfIllum
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _WaterLightWithTexture
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _WaterLightWithoutTexture
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _DiffuseColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _WaterTextureColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _WaterLight
+        second: {r: 1, g: 1, b: 1, a: 1}

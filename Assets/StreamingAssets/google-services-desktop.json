@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914990432380",
+    "project_id": "jurassic-primal-dino-clash-3d",
+    "storage_bucket": "jurassic-primal-dino-clash-3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914990432380:android:5e27956fe00262b05e49f9",
+        "android_client_info": {
+          "package_name": "com.jurassicprimaldinoclash.carnageattack.openworld.storygame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-rVy9kztKcqXPEKOJlOEqcw3EiYpr6bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

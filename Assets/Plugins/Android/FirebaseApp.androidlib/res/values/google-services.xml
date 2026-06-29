@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">914990432380</string>
+  <string name="google_storage_bucket" translatable="false">jurassic-primal-dino-clash-3d.firebasestorage.app</string>
+  <string name="project_id" translatable="false">jurassic-primal-dino-clash-3d</string>
+  <string name="google_api_key" translatable="false">AIzaSyB-rVy9kztKcqXPEKOJlOEqcw3EiYpr6bk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB-rVy9kztKcqXPEKOJlOEqcw3EiYpr6bk</string>
+  <string name="google_app_id" translatable="false">1:914990432380:android:5e27956fe00262b05e49f9</string>
+</resources>

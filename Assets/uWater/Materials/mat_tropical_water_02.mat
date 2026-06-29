@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mat_tropical_water_02
+  m_Shader: {fileID: 4800000, guid: 334774a29338db448a3473fe9937e81e, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - PIXELFRESNEL_OFF
+  - PixelFresnel
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2850
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 09c0e625dcc0baa4a86a3f3b8c5eab4d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorControl:
+        m_Texture: {fileID: 2800000, guid: d8ef02f9d43c97d47b35b8978103fe59, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ColorControlCube:
+        m_Texture: {fileID: 8900000, guid: 060e340859d6aab47924be7300b0de0e, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: 48d1cd39c56855c44b95efe1b0536f40, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EnvironmentMap:
+        m_Texture: {fileID: 8900000, guid: 2f821dbbb5e173e468876ef2e4eaa490, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: bb0edf3b616c9fc4c9c12580607f5900, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaveNormalMap:
+        m_Texture: {fileID: 2800000, guid: a53cf5449d11a15d1100a04b44295342, type: 3}
+        m_Scale: {x: 2, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _node_7048:
+        m_Texture: {fileID: 2800000, guid: a53cf5449d11a15d1100a04b44295342, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Cutoff: 0.5
+    - _Dir1InDegree: 90
+    - _Dir2InDegree: 45
+    - _FillWithRed: 0
+    - _FoamSoftness: 2
+    - _FoamWidth: 0.4
+    - _HorizonColorFresnel: 15.62
+    - _MinReflectionFresnel: 0.59
+    - _NormalMap0: 0
+    - _NormalMap0Animation: 0
+    - _NormalMap0AnimationX: 0.533
+    - _NormalMap0AnimationY: 0.237
+    - _NormalMap0Scale: 14.43
+    - _NormalMap1Animation: 0
+    - _NormalMap1AnimationX: 0.279
+    - _NormalMap1AnimationY: 0.371
+    - _NormalMap1Scale: -3.6
+    - _NormalStrength: 0.55
+    - _PixelFresnel: 1
+    - _ReflectionFresnel: 8
+    - _ShoreDepth: 1.5
+    - _Speed1: 0.1
+    - _Speed2: 0.05
+    - _TextureAnimation: 100
+    - _TextureAnimationX: 8.75
+    - _TextureAnimationY: 0.777
+    - _TextureScale: 5
+    - _WaveScale: 0.022321427
+    m_Colors:
+    - WaveSpeed: {r: 35, g: 350, b: -27, a: 271}
+    - _Anim0: {r: 2, g: 0.777, b: 0, a: 0}
+    - _Anim1: {r: 0.333, g: 0.137, b: 1.13, a: -0.44}
+    - _Anim2: {r: 0.27, g: 0.137, b: 0, a: 0}
+    - _Color: {r: 0.588, g: 0.588, b: 0.588, a: 1}
+    - _DiffuseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FoamColor: {r: 0, g: 0, b: 0, a: 0.38431373}
+    - _HorizonColor: {r: 0, g: 0.32320327, b: 0.4811321, a: 1}
+    - _NormalMapOffsets: {r: 1.13, g: -0.44, b: 0, a: 0}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ReflectionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Scales: {r: 5, g: 2, b: 3, a: 0}
+    - _WaterColor: {r: 1, g: 1, b: 1, a: 1}
+    - _WaterLight: {r: 1, g: 1, b: 1, a: 1}
+    - _WaterLightWithTexture: {r: 1, g: 1, b: 1, a: 1}
+    - _WaterLightWithoutTexture: {r: 0, g: 0, b: 0, a: 1}
+    - _WaterSelfIllum: {r: 0, g: 0, b: 0, a: 1}
+    - _WaterTextureColor: {r: 0, g: 0, b: 0, a: 1}
+    - _horizonColor: {r: 0.5514706, g: 0.46631703, b: 0.46631703, a: 1}
+    - _node_5114: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  m_BuildTextureStacks: []
